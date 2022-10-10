@@ -1,0 +1,6 @@
+<svg width="24" height="20" viewBox="0 0 24 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="camera">
+<path id="Shape" fill-rule="evenodd" clip-rule="evenodd" d="M23 17C23 18.1046 22.1046 19 21 19H3C1.89543 19 1 18.1046 1 17V6C1 4.89543 1.89543 4 3 4H7L9 1H15L17 4H21C22.1046 4 23 4.89543 23 6V17Z" stroke="#7D8696" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Oval" fill-rule="evenodd" clip-rule="evenodd" d="M12 15C14.2091 15 16 13.2091 16 11C16 8.79086 14.2091 7 12 7C9.79086 7 8 8.79086 8 11C8 13.2091 9.79086 15 12 15Z" stroke="#7D8696" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

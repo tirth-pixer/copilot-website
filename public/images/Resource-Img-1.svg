@@ -1,0 +1,16 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 4C0 1.79086 1.79086 0 4 0H300V200H4C1.79086 200 0 198.209 0 196V4Z" fill="#FFF6BE"/>
+<circle cx="149.5" cy="99.5" r="77.5" fill="white"/>
+<rect x="115.75" y="57.75" width="68.5" height="82.5" rx="4.25" stroke="#9195A6" stroke-width="1.5"/>
+<line x1="126.523" y1="87.4351" x2="144.943" y2="87.4351" stroke="#9195A6" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="149.588" y1="87.4351" x2="156.475" y2="87.4351" stroke="#9195A6" stroke-width="1.5" stroke-linecap="round"/>
+<ellipse cx="155" cy="119.871" rx="10.0003" ry="9.8709" fill="#F3F4F5"/>
+<line x1="126" y1="94.25" x2="153.779" y2="94.25" stroke="#9195A6" stroke-width="1.5"/>
+<line x1="126" y1="108.508" x2="141.556" y2="108.508" stroke="#9195A6" stroke-width="1.5"/>
+<line x1="126" y1="101.928" x2="153.779" y2="101.928" stroke="#9195A6" stroke-width="1.5"/>
+<line x1="115" y1="72.75" x2="184.34" y2="72.75" stroke="#9195A6" stroke-width="1.5"/>
+<path d="M170.956 98.7854C172.543 98.1505 173.683 97.833 174 100.373L167.016 110.849M167.016 92.7534C169.873 90.8489 173.048 92.7532 172.413 96.2454L160.032 117.833L154 121.325L154.317 114.658L167.016 92.7534Z" stroke="#9195A6" stroke-width="1.5"/>
+<circle cx="123.75" cy="65.75" r="1.6875" fill="#F3F4F5" stroke="#9195A6"/>
+<circle cx="135.5" cy="65.75" r="1.6875" fill="#F3F4F5" stroke="#9195A6"/>
+<circle cx="129.5" cy="65.75" r="1.6875" fill="#F3F4F5" stroke="#9195A6"/>
+</svg>

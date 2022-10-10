@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Accounting-Help-Center" transform="translate(-983.000000, -354.000000)" fill-rule="nonzero" fill="#8F9295">
+            <g id="HERO">
+                <g id="Search-Input" transform="translate(420.000000, 340.000000)">
+                    <g id="search" transform="translate(563.000000, 14.000000)">
+                        <path d="M10.095,18.3375 C5.3775,18.3375 1.55325,14.58 1.55325,9.9375 C1.55325,5.295 5.3775,1.53 10.095,1.53 C14.8125,1.53 18.6375,5.295 18.6375,9.9375 C18.6375,14.58 14.8125,18.3375 10.095,18.3375 L10.095,18.3375 Z M23.766,22.6875 L17.57175,16.59 C19.19325,14.8275 20.19,12.5025 20.19,9.9375 C20.19,4.4475 15.6705,0 10.095,0 C4.5195,0 0,4.4475 0,9.9375 C0,15.42 4.5195,19.8675 10.095,19.8675 C12.504,19.8675 14.7135,19.035 16.449,17.6475 L22.668,23.7675 C22.97175,24.0675 23.463,24.0675 23.766,23.7675 C24.06975,23.475 24.06975,22.9875 23.766,22.6875 L23.766,22.6875 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
