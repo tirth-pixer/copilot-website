@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Publicsans', sans-serif;
+    font-family: 'Bagoss', sans-serif;
   }
   :root {
     --shadowColor: 0px 1px 3px rgba(10, 10, 46, 0.1), 0px 3px 14px rgba(10, 10, 46, 0.04), 0px 8px 32px rgba(10, 10, 46, 0.08), 0px 30px 84px rgba(10, 10, 46, 0.1);
@@ -31,8 +31,8 @@ const GlobalStyle = createGlobalStyle`
 
 const theme = {
   fontfamily: {
-    Publicsans: "Publicsans",
-    Gtwalsheimpro: "Gtwalsheimpro",
+    Bagoss: "Bagoss",
+    Everett: "Everett",
   },
   colors: {
     primary: "#3C7CE8",

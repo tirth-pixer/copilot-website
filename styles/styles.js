@@ -1,10 +1,10 @@
 const { css } = require("styled-components");
 
 const Heading1 = css`
-  font-weight: 700;
-  font-size: 64px;
-  line-height: 74px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 135px;
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 991px) {
     font-size: 48px;
     line-height: 56px;
@@ -20,10 +20,10 @@ const Heading1 = css`
 `;
 
 const Heading2 = css`
-  font-weight: 700;
-  font-size: 48px;
-  line-height: 56px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 76px;
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 768px) {
     font-size: 36px;
     line-height: 42px;
@@ -35,10 +35,10 @@ const Heading2 = css`
 `;
 
 const Heading3 = css`
-  font-weight: 700;
-  font-size: 32px;
-  line-height: 38px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 55px;
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 768px) {
     font-size: 28px;
     line-height: 32px;
@@ -50,10 +50,10 @@ const Heading3 = css`
 `;
 
 const Heading4 = css`
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 28px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 34px;
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 479px) {
     font-size: 20px;
     line-height: 24px;
@@ -64,7 +64,7 @@ const Heading5 = css`
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 479px) {
     font-size: 18px;
     line-height: 22px;
@@ -75,42 +75,61 @@ const Heading6 = css`
   font-weight: 700;
   font-size: 18px;
   line-height: 24px;
-  font-family: ${({ theme }) => theme.fontfamily.Gtwalsheimpro};
+  font-family: ${({ theme }) => theme.fontfamily.Bagoss};
   @media only screen and (max-width: 479px) {
     font-size: 16px;
     line-height: 20px;
   }
 `;
-
-const Text2 = css`
+const Body1 = css`
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+`;
+const Body2 = css`
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 20px;
+`;
+const Body3 = css`
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+`;
+const Body4 = css`
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+`;
+const Body5 = css`
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 19px;
+`;
+const Quote = css`
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+`;
+const HeaderFont = css`
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
 `;
-
-const Text1 = css`
+const FooterText = css`
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+`;
+const ButtonText = css`
   font-weight: 500;
   font-size: 18px;
-  line-height: 26px;
-  @media only screen and (max-width: 479px) {
-    ${Text2}
-  }
+  line-height: 22px;
 `;
-
-const HeroPara = css`
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 28px;
-  @media only screen and (max-width: 479px) {
-    font-size: 16px;
-    line-height: 24px;
-  }
-`;
-
-const Text3 = css`
-  font-weight: 600;
-  font-size: 14px;
-  line-height: 18px;
+const Label = css`
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
 `;
 
 export {
@@ -119,9 +138,15 @@ export {
   Heading3,
   Heading4,
   Heading5,
-  HeroPara,
-  Text1,
-  Text2,
-  Text3,
   Heading6,
+  Body1,
+  Body2,
+  Body3,
+  Body4,
+  Body5,
+  Quote,
+  HeaderFont,
+  FooterText,
+  ButtonText,
+  Label,
 };
